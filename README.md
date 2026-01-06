@@ -2,10 +2,14 @@
 
 This repository analyzes California’s employment trends during 2020–2021, highlighting COVID-19’s impact across key industries and seasons
 
-**Topic one:**  An Increase or decrease in the variance of jobs in the year 2021 in California as compared to 2020.​
-**Topic two:** Changes in Employment Rate in the seasons due to covid.​
-**Topic three:** Positive correlation between employment in the Pharmaceutical Industry​
-**Topic four:** Affect of Employment on Entertainment and Food Industries.​
+**Topic one:**  An Increase or decrease in the variance of jobs in the year 2021 in California as compared to 2020.
+​
+**Topic two:** Changes in Employment Rate in the seasons due to covid.
+​
+**Topic three:** Positive correlation between employment in the Pharmaceutical Industry
+​
+**Topic four:** Affect of Employment on Entertainment and Food Industries.
+​
 **Topic five:** Employment rate in the Travel Industry
 
 
